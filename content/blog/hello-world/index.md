@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: It's Okay to NOT Have a Plan!
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
